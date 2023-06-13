@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-quiz-app/static/css/main.d62d93aa.css",
+    "main.js": "/portfolio-quiz-app/static/js/main.3f66ce4c.js",
+    "index.html": "/portfolio-quiz-app/index.html",
+    "main.d62d93aa.css.map": "/portfolio-quiz-app/static/css/main.d62d93aa.css.map",
+    "main.3f66ce4c.js.map": "/portfolio-quiz-app/static/js/main.3f66ce4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d62d93aa.css",
+    "static/js/main.3f66ce4c.js"
+  ]
+}
